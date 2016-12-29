@@ -7,7 +7,7 @@
   // Set the configuration for your app
   // TODO: Replace with your project's config object
   var config = {
-    databaseURL: "https://kato-flashlight.firebaseio.com"
+    databaseURL: "https://ngrxproject.firebaseio.com"
   };
 
   // TODO: Replace this with the path to your ElasticSearch queue
